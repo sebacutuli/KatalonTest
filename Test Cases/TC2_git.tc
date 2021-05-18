@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Second TC for git</description>
+   <name>TC2_git</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22e8a980-f554-47dc-ba63-2a782bf8e2e4</testCaseGuid>
+</TestCaseEntity>
